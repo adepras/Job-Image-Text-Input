@@ -1,7 +1,5 @@
-# Instagram Clone
-
-Tugas Studi Kasus Image dan TextInput Flutter
-Nama: Achmad Muchibin
-kelas: IK2C
-nim: 3.34.21.2.01
-
+Job Image & Text Inpuyt (Instagram)
+Ade Prasetyo IK2D 3.34.21.3.01
+![alt text]()
+![alt text]()
+![alt text]()
